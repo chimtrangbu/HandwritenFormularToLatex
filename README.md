@@ -39,8 +39,6 @@ Converting handwritten formulas to LaTeX
         • Latex/Latex.py
         
         • Seq2SeqModel/Seq2SeqModel.py
-        
-        • seq_mod/
     
     + Generate latex sequences from filenames using [Sequence-to-sequence model](https://github.com/chimtrangbu/HandwritenFormularToLatex/tree/master/Seq2SeqModel)
         -> output files: **oseq_n.npy, iseq_n.npy, files.json**
@@ -48,6 +46,6 @@ Converting handwritten formulas to LaTeX
 -> output files: [drive](https://drive.google.com/drive/folders/1qrbi1yu0b6IVh9sWkY3dTTPHWbuFEi57?usp=sharing)
 
 - Train and test the seq2seq model: https://github.com/Wikunia/HE2LaTeX/blob/master/Seq2Seq.ipynb
-    train in ~ 5 hours -> Accuracy on test set ~ 62%
+    -> Accuracy on test set ~ 62%
 
 - To be continue
